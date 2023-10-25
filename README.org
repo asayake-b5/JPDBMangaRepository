@@ -1,0 +1,9 @@
+* DISCLAIMER
+** ⚠⚠⚠⚠ THIS IS UNOFFICIAL FOR A REASON. THIS IS MADE FROM OCR-ING SCANS OF SOMETIMES DUBIOUS QUALITY, WHICH IS PRONE TO A LOT OF MISTAKES. ON TOP OF THAT THIS GOES THROUGH ANOTHER AI WHICH CAN MAKE MISTAKES AS WELL ⚠⚠⚠⚠
+
+* How To Use
+
+1. git clone or download the zip with the green button, or if you want to only download a folder, use something like https://mew.js.cool/DownGit/#/home
+2. Head to https://jpdb.asayake.xyz/, enter your API key
+3. In import decks, select the CSVs from the decks you want, keeping in mind there’s a 250 decks limit and it takes ~1s per deck to import
+4. If you want to merge decks, use https://kampffrosch94.github.io/jpdb-deck-manager/
